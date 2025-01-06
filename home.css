@@ -1,0 +1,48 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: black;
+    color: white;
+}
+
+#writingThingsDown--h1 {
+    font-size: 100px;
+    padding-left: 50px;
+}
+
+#description {
+    padding-left: 50px;
+    opacity: 0.5;
+    font-size: 1.5rem;
+}
+
+#buttons {
+    display: flex;
+}
+
+#startTodayButton {
+    border: 2px solid white;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: -150px;
+    padding: 5px;
+    width: 102px;
+    font-size: 1.25rem;
+    background: white;
+    color: black;;
+}
+
+#contactButton {
+    float: right;
+    border: 2px solid white;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-top: 50px;
+    margin-left: 210px;
+    padding: 5px;
+    width: 97px;
+    font-size: 1.25rem;
+    background: black;
+    color: white;;
+}
